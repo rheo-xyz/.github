@@ -5,11 +5,11 @@ Check out [rheo-solidity](https://github.com/rheo-xyz/rheo-solidity) for the goo
 
 ### Other Helpful links
 
-[Size Website](https://rheo.xyz)
+[Rheo Website](https://rheo.xyz)
 
-[Size App](https://app.rheo.xyz)
+[Rheo App](https://app.rheo.xyz)
 
-[Size Docs](https://docs.rheo.xyz)
+[Rheo Docs](https://docs.rheo.xyz)
 
 ### Security
 
